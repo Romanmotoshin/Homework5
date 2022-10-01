@@ -1,0 +1,15 @@
+D:\Frontend\gb\C#\Homework5\exersize36\bin\Debug\net6.0\exersize36.exe
+D:\Frontend\gb\C#\Homework5\exersize36\bin\Debug\net6.0\exersize36.deps.json
+D:\Frontend\gb\C#\Homework5\exersize36\bin\Debug\net6.0\exersize36.runtimeconfig.json
+D:\Frontend\gb\C#\Homework5\exersize36\bin\Debug\net6.0\exersize36.dll
+D:\Frontend\gb\C#\Homework5\exersize36\bin\Debug\net6.0\exersize36.pdb
+D:\Frontend\gb\C#\Homework5\exersize36\obj\Debug\net6.0\exersize36.csproj.AssemblyReference.cache
+D:\Frontend\gb\C#\Homework5\exersize36\obj\Debug\net6.0\exersize36.GeneratedMSBuildEditorConfig.editorconfig
+D:\Frontend\gb\C#\Homework5\exersize36\obj\Debug\net6.0\exersize36.AssemblyInfoInputs.cache
+D:\Frontend\gb\C#\Homework5\exersize36\obj\Debug\net6.0\exersize36.AssemblyInfo.cs
+D:\Frontend\gb\C#\Homework5\exersize36\obj\Debug\net6.0\exersize36.csproj.CoreCompileInputs.cache
+D:\Frontend\gb\C#\Homework5\exersize36\obj\Debug\net6.0\exersize36.dll
+D:\Frontend\gb\C#\Homework5\exersize36\obj\Debug\net6.0\refint\exersize36.dll
+D:\Frontend\gb\C#\Homework5\exersize36\obj\Debug\net6.0\exersize36.pdb
+D:\Frontend\gb\C#\Homework5\exersize36\obj\Debug\net6.0\exersize36.genruntimeconfig.cache
+D:\Frontend\gb\C#\Homework5\exersize36\obj\Debug\net6.0\ref\exersize36.dll
